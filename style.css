@@ -2,6 +2,10 @@ html {
   height: 100%;
   width: 100%;
 }
+<button type="button">
+  <span class="icon-button:hover"></span>
+  Записаться
+</button>
 icon-button:hover {
   height: 90px
   width: 100px;
